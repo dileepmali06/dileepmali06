@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm currently working on:<br>Full Stack Web Development projects using Java, Spring Boot, React.js, Node.js, Express.js, MongoDB, PostgreSQL, and REST APIs.<br><br>I'm looking to collaborate on:<br>Open-source projects, Full Stack applications, Spring Boot projects, SaaS products, and innovative software solutions.<br><br>I'm looking for help with:<br>System Design, Microservices Architecture, Cloud Computing (AWS), Scalable Backend Development, and Software Engineering best practices.<br><br>I'm currently learning:<br>Data Structures & Algorithms, Java, Spring Boot, System Design, Docker, AWS, Python, Artificial Intelligence, and Competitive Programming.<br><br>Ask me about:<br>Java, Spring Boot, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Git, GitHub, REST APIs, DSA, and Full Stack Development.<br><br>Fun fact:<br>I'm an MCA student building projects, solving DSA problems, earning certifications, and preparing for Software Engineer roles at top product-based companies.
+Software Engineer in progress and MCA student.
+
+Most of my time goes into building projects, learning backend development, and improving my problem-solving skills. I enjoy understanding how things work behind the scenes, whether it's designing APIs, working with databases, or figuring out why a piece of code behaves the way it does.
+
+Currently focused on Java, Spring Boot, DSA, and building software that solves real problems.
+
 
 
 ## 🌐 Socials:
