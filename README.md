@@ -3,7 +3,7 @@ Software Engineer in progress and MCA student.
 Most of my time goes into building projects, learning backend development, and improving my problem-solving skills. I enjoy understanding how things work behind the scenes, whether it's designing APIs, working with databases, or figuring out why a piece of code behaves the   way it does. 
  
 Currently focused on Java, Spring Boot, DSA, and building software that solves real problems.
- 
+  
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dileep.mali_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dileep-mali) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dileepmali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dileepmali06)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@dileepmali.me) 
