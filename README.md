@@ -1,4 +1,4 @@
-Software Engineer in progress and MCA student.  
+Software Engineer in progress and MCA student.
 
 Most of my time goes into building projects, learning backend development, and improving my problem-solving skills. I enjoy understanding how things work behind the scenes, whether it's designing APIs, working with databases, or figuring out why a piece of code behaves the   way it does.   
   
